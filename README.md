@@ -43,7 +43,7 @@ Gather feedback before stable releases
 To report issues or suggest improvements, feel free to open an issue in this repository.
 
 📦 Project Structure
-Code
+`
 Block-Guard-Beta/
 ├── manifest.json           # Chrome extension manifest
 ├── popup.html             # Extension popup interface
@@ -56,6 +56,5 @@ Block-Guard-Beta/
     ├── index.html
     ├── config.js
     └── styles.css
-    
-
+    `
 Made with ❤️ by the Block Guard team
