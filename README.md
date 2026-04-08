@@ -29,15 +29,16 @@ This repository contains:
 The extension should now appear in your Chrome toolbar.
 
 
-📝 Features
+# 📝 Features
 Block specified websites and categories
 Set custom time blocks for focused work sessions
 Whitelist exceptions for trusted sites
 Simple, lightweight Chrome extension
-🧪 Testing & Development
+
+# 🧪 Testing & Development
 This is a beta testing repository. We use this space to:
 
-Test new features and improvements
+**Test new features and improvements**
 Validate configurations
 Gather feedback before stable releases
 To report issues or suggest improvements, feel free to open an issue in this repository.
