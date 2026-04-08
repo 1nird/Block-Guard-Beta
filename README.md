@@ -23,7 +23,7 @@ This repository contains:
 4. Enable **Developer mode** (toggle in the top right)
 5. Click **Load unpacked**
 6. double click into the files folder
-7. <img width="920" height="565" alt="image" src="https://github.com/user-attachments/assets/13dd7a4b-4f38-430f-9f67-6d1bb4dd516b" /> You Should see this, select folder.
+<img width="920" height="565" alt="image" src="https://github.com/user-attachments/assets/13dd7a4b-4f38-430f-9f67-6d1bb4dd516b" /> You Should see this, select folder.
 
 
 The extension should now appear in your Chrome toolbar.
