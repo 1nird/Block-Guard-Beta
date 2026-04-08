@@ -26,7 +26,7 @@ This repository contains:
 <img width="920" height="565" alt="image" src="https://github.com/user-attachments/assets/13dd7a4b-4f38-430f-9f67-6d1bb4dd516b" /> You Should see this, select folder.
 
 
-The extension should now appear in your Chrome toolbar.
+- The extension should now appear in your Chrome toolbar.
 
 
 # 📝 Features
