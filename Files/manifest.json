@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Block Guard",
+  "version": "1.0.0",
+  "description": "Block distracting sites and reclaim your focus time.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_width": 340,
+    "default_height": 440
+  },
+  "background": {
+    "service_worker": "background/service.js"
+  },
+  "permissions": [
+    "storage",
+    "declarativeNetRequest",
+    "tabs",
+    "scripting",
+    "alarms"
+  ],
+  "host_permissions": ["<all_urls>"]
+}
