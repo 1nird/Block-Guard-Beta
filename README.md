@@ -42,19 +42,5 @@ Validate configurations
 Gather feedback before stable releases
 To report issues or suggest improvements, feel free to open an issue in this repository.
 
-📦 Project Structure
-`
-Block-Guard-Beta/
-├── manifest.json           # Chrome extension manifest
-├── popup.html             # Extension popup interface
-├── popup.js               # Popup logic
-├── background.js          # Background service worker
-├── content.js             # Content script
-├── styles/                # CSS styles
-├── icons/                 # Extension icons
-└── website/               # Landing page & waitlist
-    ├── index.html
-    ├── config.js
-    └── styles.css
-    `
+
 Made with ❤️ by the Block Guard team
