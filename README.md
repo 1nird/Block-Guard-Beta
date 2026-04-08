@@ -11,13 +11,7 @@ A Chrome extension designed to help you stay focused by blocking distracting web
 This repository contains:
 
 - **Chrome Extension**: The main distraction blocker extension files (root directory with `manifest.json`)
-- **Website/Waitlist**: A landing page and waitlist signup form (`website/` directory)
 
-## 🛠️ Tech Stack
-
-- **HTML**: 50.2% - Structure and markup
-- **JavaScript**: 49.7% - Core extension logic and interactivity
-- **CSS**: 0.1% - Minimal styling
 
 ## 🚀 Quick Start
 
