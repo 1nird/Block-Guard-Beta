@@ -9,13 +9,7 @@ A Chrome extension designed to help you stay focused by blocking distracting web
 This repository contains:
 
 - **Chrome Extension**: The main distraction blocker extension files (root directory with `manifest.json`)
-- **Website/Waitlist**: A landing page and waitlist signup form (`website/` directory)
 
-## 🛠️ Tech Stack
-
-- **HTML**: 50.2% - Structure and markup
-- **JavaScript**: 49.7% - Core extension logic and interactivity
-- **CSS**: 0.1% - Minimal styling
 
 ## 🚀 Quick Start
 
@@ -30,25 +24,8 @@ This repository contains:
 
 The extension should now appear in your Chrome toolbar.
 
-### Run the Website
 
-1. Navigate to the `website/` folder
-2. Open `index.html` in a local web server, or host it on GitHub Pages
-3. The waitlist form will collect email signups (see configuration below)
 
-## ⚙️ Configuration
-
-### Waitlist Email Collection
-
-By default, the waitlist form saves emails **locally in the browser**. This works out of the box without any backend setup.
-
-To send signups to a backend server instead:
-
-1. Open `website/config.js`
-2. Set your endpoint:
-   ```javascript
-   window.BLOCK_GUARD_WAITLIST_ENDPOINT = "https://your-backend-url.com/signup";
-   ```
 
 ## 📝 Features
 
@@ -83,10 +60,6 @@ Block-Guard-Beta/
     ├── config.js
     └── styles.css
 ```
-
-## 📄 License
-
-[Add your license here]
 
 ---
 
