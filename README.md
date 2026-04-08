@@ -1,4 +1,6 @@
 # Block Guard (Beta)
+<img width="1897" height="867" alt="image" src="https://github.com/user-attachments/assets/dfc80d5e-1e1a-4ae8-847d-2d609bb40151" />
+
 
 A Chrome extension designed to help you stay focused by blocking distracting websites and content while you work.
 
