@@ -56,7 +56,14 @@
       z-index: 10;
     }
 
-    .header-left { display: flex; align-items: center; gap: 10px; }
+    .header-left { display: flex; align-items: center; gap: 8px; }
+
+    .header-mark {
+      width: 18px;
+      height: 18px;
+      display: block;
+      object-fit: contain;
+    }
 
     .status-dot {
       width: 10px; height: 10px;
@@ -83,10 +90,14 @@
 
     .brand {
       font-family: 'Plus Jakarta Sans', sans-serif;
-      font-size: 16px;
-      font-weight: 800;
-      letter-spacing: -0.5px;
-      color: var(--sage);
+      display: flex;
+      align-items: center;
+      height: 20px;
+    }
+    .brand img {
+      width: 112px;
+      height: auto;
+      display: block;
     }
 
     #settings-btn {
@@ -651,7 +662,7 @@
   <header>
     <div class="header-left">
       <div id="status-dot" class="status-dot"></div>
-      <span class="brand">Block Guard</span>
+      <span class="brand"><img src="assets/logo-wordmark-sage.svg" alt="Block Guard" /></span>
     </div>
     <button id="settings-btn">
       <span class="material-symbols-outlined">tune</span>
